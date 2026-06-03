@@ -29,6 +29,13 @@ The objective was to identify patterns in ratings, cuisines, pricing, customer e
 
 ---
 
+Models Implemented:
+- Linear Regression
+- Random Forest Regressor
+- XGBoost Regressor
+
+---
+
 ## Dashboard Pages
 
 - Overview
